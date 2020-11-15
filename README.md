@@ -2,7 +2,7 @@ Infinite Scroll in React Typescript.
 (No external library dependency)
 
 ## Demo Online
-[View Demo](https://intense-cove-00485.herokuapp.com/)
+[View Demo](https://react-infinite-scroll-app.herokuapp.com/)
 
 ## API
 Stack Exchange questions API
